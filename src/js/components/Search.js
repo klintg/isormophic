@@ -5,7 +5,7 @@ class Search extends Component {
   constructor() {
     super();
     this.state = {
-      symbol: ''
+      symbol: 'aapl'
     }
   }
   render() {
